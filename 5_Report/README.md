@@ -93,9 +93,11 @@ any accidents by turning on the wiper.
 HIGH LEVEL REQUIREMENTS:
 
 S.no High level requirement Description Status
+
 | **High Level Requirement** | **Description** | **Status** |
 | --- | --- | --- | --- | --- |
-1 HLR1 STM32CubeIDE Implemented
+| TD\_01 | Button Press | Input = 2 sec | Red LED ON  | PASS |
+| HLR\_01  STM32CubeIDE Implemented
 2 HLR2 Cygwin Implemented
 3 HLR3 Qemu Implemented
 4 HLR4 OS Windows Implemented
