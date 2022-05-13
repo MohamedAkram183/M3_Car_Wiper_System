@@ -90,32 +90,7 @@ with the real time environmental issues. The automobile to monitor if any
 obstacle is to be detected in the travelling path is to be ensured to avoid
 any accidents by turning on the wiper.
 
-HIGH LEVEL REQUIREMENTS:
 
-S.no High level requirement Description Status
-
-| **High Level Requirement** | **Description** | **Status** |
-| --- | --- | --- | --- | --- |
-| TD\_01 | Button Press | Input = 2 sec | Red LED ON  | PASS |
-| HLR\_01  STM32CubeIDE Implemented
-2 HLR2 Cygwin Implemented
-3 HLR3 Qemu Implemented
-4 HLR4 OS Windows Implemented
-5 HLR5 Hard-Disk Implemented
-6 HLR6 4 GB RAM Implemented
-
-LOW LEVEL REQUIREMENTS:
-S.no Low level
-requirements Description Status
-
-1 LlR1 Red LED ON Implemented
-2 LlR2 Blue LED frequency
-1Hz Implemented
-3 LlR3 Green LED frequency
-4Hz Implemented
-4 LLR4 Orange LED frequency
-8Hz Implemented
-5 LLR5 Red LED OFF Implemented
 
 
 ![Flowchart](https://user-images.githubusercontent.com/77711240/168219418-8b7c6ba0-7e5b-4cd1-9d2e-b7ab54f23022.jpeg)
