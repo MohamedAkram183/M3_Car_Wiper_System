@@ -6,3 +6,7 @@
 
 
 [![Code quality](https://api.codiga.io/project/33441/status/svg)]
+
+
+
+[![Analysis](https://github.com/MohamedAkram183/M3_Car_Wiper_System/actions/workflows/analysis.yml/badge.svg)](https://github.com/MohamedAkram183/M3_Car_Wiper_System/actions/workflows/analysis.yml)
